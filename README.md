@@ -1,3 +1,3 @@
 # Marketing
 
-![GitHub Keynote Preview](https://github.com/pshptr/Marketing/pz1/template\side.png)
+![GitHub Keynote Preview](https://github.com/pshptr/Marketing/blob/main/pz%201/template%20slide%20png.png)
